@@ -100,9 +100,11 @@ li.banner-li {
 }
 .banner-footer-section2 {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     gap: 130px;
+    margin: 11px 22px 10px 10px;
+    padding: 10px 18px 14px 6px;
 }
 
 .img-inst-face{
